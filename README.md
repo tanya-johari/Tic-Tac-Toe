@@ -1,4 +1,4 @@
-[Tic-Tac-Toe Game in React](https://react.dev/learn/tutorial-tic-tac-toe)
+# [Tic-Tac-Toe Game in React](https://react.dev/learn/tutorial-tic-tac-toe)
 
 ### 1. Set up the project
    * Choose between a CodeSandbox or local development environment.
