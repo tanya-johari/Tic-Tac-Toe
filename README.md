@@ -23,4 +23,18 @@
    * You will also need to add an onClick event handler to the button element in the Square component. 
    * When the square is clicked, the handleClick function will update the state variable to “X”.
 
+### 6. Game Logic
+   * In the Board component, handle clicks on each square:
+        - If a square is already filled or there’s a winner, ignore the click. Otherwise, update the board with the current player’s move (“X” or “O”).
+        - Implement a function to calculate the winner based on possible win conditions (rows, columns, diagonals).
+          
+### 7. Displaying Game Status and Restarting the Game
+   * Show the current player (“X” or “O”) and the winner (if any).
+   * Add a restart button to reset the game.
+   * Refactor the JSX code to make it more readable.
+     
+### 8. Adding Time Travel (Optional):
+  * Implement time travel by maintaining a history of moves.
+  * Allow users to jump to any previous move and replay the game.
+
 
